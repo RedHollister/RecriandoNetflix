@@ -62,19 +62,19 @@ header nav a:hover{
 }
 
 .filme-principal .titulo{
-    margin-top: 15%;
+    margin-top: 5%;
     font-size: 70px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .filme-principal .descricao{
     margin-top: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 
 }
 
 .botao{
-    background-color: rgba(0, 0,0,0.50);
+    background-color: rgba(0, 255, 128, 0.5);
     border: none;
     color: white;
 
@@ -95,16 +95,16 @@ header nav a:hover{
 }
 
 .filme-principal .container{
-    width: 70%;
+    width: 80%;
 }
 
 .carrosel-filmes{
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 
 .box-filme{
-    height: 100%;
+    height: 400px;
     width: 100%;
     display: block;
 }
